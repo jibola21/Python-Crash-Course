@@ -10,17 +10,17 @@ num2 = 6
 sub_two_num = num1 - num2
 print(sub_two_num)
  
- #multiplication
+#multiplication
 num1 = 12
- num2 = 6
- mul_two_num = num1 * num2
- print(mul_two_num)
+num2 = 6
+mul_two_num = num1 * num2
+print(mul_two_num)
 
- #division
- num1 = 12
- num2 = 6
- div_two_num = num1 / num2
- print(div_two_num)
+#division
+num1 = 12
+num2 = 6
+div_two_num = num1 / num2
+print(div_two_num)
 
  #exponentiation
  num1 = 12
